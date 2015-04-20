@@ -1,0 +1,5 @@
+require 'seize/extractor'
+require 'seize/extractors/description_extractor'
+require 'seize/extractors/images_extractor'
+require 'seize/extractors/keywords_extractor'
+require 'seize/extractors/title_extractor'
